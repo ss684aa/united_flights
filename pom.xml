@@ -64,7 +64,7 @@
              <deploymentType>cloudhub</deploymentType>
              <muleVersion>3.9.0</muleVersion>
              <username>leelakrishna2016</username>
-             <password>Jyomca@143</password>
+             <password>${pwd}</password>
              <workerType>Micro</workerType>
              <redeploy>true</redeploy>
              <environment>Sandbox</environment>
